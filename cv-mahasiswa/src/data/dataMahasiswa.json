@@ -7,7 +7,7 @@
     "nim": "L200230219",
     "prodi": "Teknik Informatika",
     "angkatan": "2023",
-    "photo_url": "raps.jpeg",
+    "photo_url": "1.jpeg",
     "headline": "Aspiring Web Developer | React Enthusiast",
     "short_bio": "Mahasiswa Teknik Informatika dengan minat pada pengembangan web modern menggunakan React dan teknologi JavaScript terkini. Aktif dalam organisasi kampus dan terus mengembangkan skill melalui project-project personal.",
     "location": "Karanganyar, Jawa Tengah",
@@ -82,7 +82,7 @@
       "is_current": false,
       "description": "Mengembangkan website company profile menggunakan React dan Tailwind CSS. Berkolaborasi dengan tim design untuk implementasi UI/UX yang responsif dan modern.",
       "technologies": ["ReactJS", "Tailwind CSS", "JavaScript", "Git"],
-      "image_url": "https://via.placeholder.com/100x100/667eea/ffffff?text=TDI"
+      "image_url": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png"
     },
     {
       "id": 103,
@@ -94,7 +94,7 @@
       "is_current": true,
       "description": "Membuat website landing page untuk UMKM lokal di Karanganyar. Fokus pada desain yang menarik dan mobile-friendly untuk meningkatkan online presence klien.",
       "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap"],
-      "image_url": "https://via.placeholder.com/100x100/48bb78/ffffff?text=Freelance"
+      "image_url": "https://cdn-icons-png.flaticon.com/512/1336/1336494.png"
     }
   ],
 
