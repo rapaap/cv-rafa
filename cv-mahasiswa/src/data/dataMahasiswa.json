@@ -1,0 +1,115 @@
+{
+  "id": 1,
+  "slug": "rafa-arsila-pratama-l200230219",
+
+  "profile": {
+    "full_name": "Rafa Arsila Pratama",
+    "nim": "L200230219",
+    "prodi": "Teknik Informatika",
+    "angkatan": "2023",
+    "photo_url": "https://ui-avatars.com/api/?name=Rafa+Arsila+Pratama&size=200&background=0D8ABC&color=fff",
+    "headline": "Aspiring Web Developer | React Enthusiast",
+    "short_bio": "Mahasiswa Teknik Informatika dengan minat pada pengembangan web modern menggunakan React dan teknologi JavaScript terkini. Aktif dalam organisasi kampus dan terus mengembangkan skill melalui project-project personal.",
+    "location": "Karanganyar, Jawa Tengah",
+    "portfolio_url": "https://github.com/rapaap"
+  },
+
+  "skills": [
+    {
+      "id": 1,
+      "name": "ReactJS",
+      "category": "technical",
+      "level": "intermediate",
+      "is_main": true,
+      "years_of_experience": 1,
+      "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+    },
+    {
+      "id": 2,
+      "name": "JavaScript",
+      "category": "technical",
+      "level": "intermediate",
+      "is_main": true,
+      "years_of_experience": 1,
+      "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+    },
+    {
+      "id": 3,
+      "name": "HTML & CSS",
+      "category": "technical",
+      "level": "advanced",
+      "is_main": false,
+      "years_of_experience": 2,
+      "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+    },
+    {
+      "id": 4,
+      "name": "Git & GitHub",
+      "category": "technical",
+      "level": "intermediate",
+      "is_main": false,
+      "years_of_experience": 1,
+      "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+    },
+    {
+      "id": 5,
+      "name": "Node.js",
+      "category": "technical",
+      "level": "beginner",
+      "is_main": false,
+      "years_of_experience": 0.5,
+      "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+    },
+    {
+      "id": 6,
+      "name": "Tailwind CSS",
+      "category": "technical",
+      "level": "intermediate",
+      "is_main": false,
+      "years_of_experience": 1,
+      "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+    }
+  ],
+
+  "experiences": [
+    {
+      "id": 101,
+      "title": "Web Developer Intern",
+      "organization": "PT Teknologi Digital Indonesia",
+      "experience_type": "internship",
+      "start_date": "2024-06-01",
+      "end_date": "2024-08-31",
+      "is_current": false,
+      "description": "Mengembangkan website company profile menggunakan React dan Tailwind CSS. Berkolaborasi dengan tim design untuk implementasi UI/UX yang responsif dan modern.",
+      "technologies": ["ReactJS", "Tailwind CSS", "JavaScript", "Git"],
+      "image_url": "https://via.placeholder.com/100x100/667eea/ffffff?text=TDI"
+    },
+    {},
+    {
+      "id": 103,
+      "title": "Freelance Web Developer",
+      "organization": "Personal Project",
+      "experience_type": "project",
+      "start_date": "2023-09-01",
+      "end_date": null,
+      "is_current": true,
+      "description": "Membuat website landing page untuk UMKM lokal di Karanganyar. Fokus pada desain yang menarik dan mobile-friendly untuk meningkatkan online presence klien.",
+      "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap"],
+      "image_url": "https://via.placeholder.com/100x100/48bb78/ffffff?text=Freelance"
+    },
+    {}
+  ],
+
+  "statistics": {
+    "views_count": 150,
+    "profile_completeness": 85,
+    "connections_count": 120
+  },
+
+  "social_media": {
+    "github": "https://github.com/rapaap",
+    "linkedin": "https://linkedin.com/in/rafa-arsila-pratama",
+    "instagram": "https://instagram.com/rafaap._",
+    "email": "arsilarafa@gmail.com"
+  }
+}
