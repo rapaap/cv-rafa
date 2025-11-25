@@ -7,7 +7,7 @@
     "nim": "L200230219",
     "prodi": "Teknik Informatika",
     "angkatan": "2023",
-    "photo_url": "https://ui-avatars.com/api/?name=Rafa+Arsila+Pratama&size=200&background=0D8ABC&color=fff",
+    "photo_url": "raps.jpeg",
     "headline": "Aspiring Web Developer | React Enthusiast",
     "short_bio": "Mahasiswa Teknik Informatika dengan minat pada pengembangan web modern menggunakan React dan teknologi JavaScript terkini. Aktif dalam organisasi kampus dan terus mengembangkan skill melalui project-project personal.",
     "location": "Karanganyar, Jawa Tengah",
@@ -67,7 +67,7 @@
       "level": "intermediate",
       "is_main": false,
       "years_of_experience": 1,
-      "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+      "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
     }
   ],
 
@@ -84,7 +84,6 @@
       "technologies": ["ReactJS", "Tailwind CSS", "JavaScript", "Git"],
       "image_url": "https://via.placeholder.com/100x100/667eea/ffffff?text=TDI"
     },
-    {},
     {
       "id": 103,
       "title": "Freelance Web Developer",
@@ -96,8 +95,7 @@
       "description": "Membuat website landing page untuk UMKM lokal di Karanganyar. Fokus pada desain yang menarik dan mobile-friendly untuk meningkatkan online presence klien.",
       "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap"],
       "image_url": "https://via.placeholder.com/100x100/48bb78/ffffff?text=Freelance"
-    },
-    {}
+    }
   ],
 
   "statistics": {
